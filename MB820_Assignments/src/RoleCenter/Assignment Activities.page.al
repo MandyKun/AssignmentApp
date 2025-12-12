@@ -35,20 +35,6 @@ page 50204 "Assignment Activities"
         }
     }
 
-    actions
-    {
-        area(Processing)
-        {
-            action(ActionName)
-            {
-                trigger OnAction()
-                begin
-
-                end;
-            }
-        }
-    }
-
     trigger OnOpenPage()
     begin
         Rec.Reset();
