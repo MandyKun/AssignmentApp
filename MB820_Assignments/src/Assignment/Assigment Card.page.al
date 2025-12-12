@@ -79,26 +79,31 @@ page 50201 "Assigment Card"
                 field(SystemCreatedAt; Rec.SystemCreatedAt)
                 {
                     ToolTip = 'Specifies the value of the SystemCreatedAt field.', Comment = '%';
+                    ApplicationArea = All;
                 }
 
                 field(SystemCreatedBy; Rec.SystemCreatedBy)
                 {
                     ToolTip = 'Specifies the value of the SystemCreatedBy field.', Comment = '%';
+                    ApplicationArea = All;
                 }
 
                 field(SystemId; Rec.SystemId)
                 {
                     ToolTip = 'Specifies the value of the SystemId field.', Comment = '%';
+                    ApplicationArea = All;
                 }
 
                 field(SystemModifiedAt; Rec.SystemModifiedAt)
                 {
                     ToolTip = 'Specifies the value of the SystemModifiedAt field.', Comment = '%';
+                    ApplicationArea = All;
                 }
 
                 field(SystemModifiedBy; Rec.SystemModifiedBy)
                 {
                     ToolTip = 'Specifies the value of the SystemModifiedBy field.', Comment = '%';
+                    ApplicationArea = All;
                 }
             }
         }
