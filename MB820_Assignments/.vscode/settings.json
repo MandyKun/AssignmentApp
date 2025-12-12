@@ -1,0 +1,5 @@
+{
+"CRS.FileNamePattern": "<ObjectName>.<ObjectType>.al",
+"CRS.FileNamePatternExtensions": "<ObjectName>.<ObjectType>-ext.al",
+"CRS.FileNamePatternPageCustomizations": "<ObjectName>.<ObjectType>-cust.al"
+}

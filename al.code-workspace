@@ -1,9 +1,11 @@
 {
   "folders": [
     {
+      "name": "MB820_Assignments",
       "path": "MB820_Assignments"
     },
     {
+      "name": ".AL-Go",
       "path": ".AL-Go"
     }
   ],
